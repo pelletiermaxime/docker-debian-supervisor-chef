@@ -1,0 +1,1 @@
+docker build -t pelletiermaxime/debian-supervisord-chef  .
